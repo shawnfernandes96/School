@@ -1,0 +1,11 @@
+Edit this in appropriately:
+
+     NAME: Christopher Burger	
+     UID:  cburger
+     Sec:  01
+     SID:  500618018
+     TAs:  your TA(s), 
+     LAB:  Wednesday 11-12
+     Submit Person: Dennis Plotnik dplotnik
+     Other Members: Name and CS userid of all remaining group members
+

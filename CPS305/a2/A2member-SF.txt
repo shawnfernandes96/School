@@ -1,0 +1,11 @@
+Edit this in appropriately:
+
+     NAME: your name, 
+     UID:  your CS userid, 
+     Sec:  your section,
+     SID:  your student ID number, 
+     TAs:  your TA(s), 
+     LAB:  your lab day/time
+     Submit Person: Dennis Plotnik dplotnik
+     Other Members: Name and CS userid of all remaining group members
+

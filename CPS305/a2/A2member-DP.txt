@@ -1,0 +1,8 @@
+NAME: Dennis Plotnik, 
+UID:  dplpotnik, 
+Sec:  03,
+SID:  500636126, 
+TAs:  Jorge Lopez, Haleh Khojaseth, 
+LAB:  Wednesday 3-4
+Submit Person: Dennis Plotnik dplotnik
+Other Members: Christopher Burger cburger, Shawn Fernandes s64ferna
